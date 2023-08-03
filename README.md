@@ -35,7 +35,7 @@ For new content or complex changes, clone the repo from your Github account to y
 
 ### Creating a Pull Request
 
-Once your changes are in your fork on github.com, you can [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to merge those changes into the main project. The main project owner(s) can then review your changes, possibly request edits, and then pull your changes into the main project.
+Once your changes are in your fork on github.com, you can [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to merge those changes into the main project. The project owner(s) can then review your changes, possibly request edits, and then pull your changes into the main project.
 
 ## More Information and Help
 
