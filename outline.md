@@ -2,7 +2,7 @@
 
 ## Pre-Work
 
-Set up Python environment: VSCode, Python, virtual environment (? - maybe save for later)
+Set up Python environment: VSCode, Python, virtual environment (? - maybe save setting up virtual environment for later)
 
 Set up Github account and initialize a repo
 
@@ -14,6 +14,8 @@ Use Google Colab Jupyter Notebook interface
 
 Data types, control structures, functions, program flow
 
+Only include what we'll actually need for the analysis/modeling
+
 ### Pandas Basics
 
 Examples of topics to cover…
@@ -23,7 +25,7 @@ Examples of topics to cover…
 
 ### Explore Dataset
 
-Read in data, exploratory statistics, exploratory plots
+Read in data, exploratory statistics, exploratory plots (Seaborn?)
 
 ## Predictive Modeling (?)
 
@@ -45,7 +47,7 @@ Saving and loading trained model
 
 ## Using an IDE
 
-Use VSCode for this part.
+Use VSCode or other IDE for this part.
 
 ### IDE Basics
 
@@ -67,7 +69,7 @@ Commit code
 
 ## Dashboard
 
-Still in VSCode
+Still in IDE
 
 Install Streamlit
 
@@ -90,3 +92,7 @@ Install Streamlit
 Dataset description (with some statistics and plots from EDA section)
 
 Predictive model: Take in a new datapoint from the user and deliver a prediction
+
+### Deploy Dashboard
+
+Deploy the Streamlit app using [Streamlit Community Cloud](https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app)
